@@ -4,8 +4,8 @@ function Error({ statusCode }) {
   return (
     <p>
       {statusCode
-        ? `An error ${statusCode} occurred on server`
-        : 'An error occurred on client'}
+        ? `An erroooor ${statusCode} occurred on server`
+        : 'An erroooor occurred on client'}
     </p>
   )
 }

@@ -5,7 +5,7 @@ import "regenerator-runtime/runtime";
 
 const NotFound = () => {
     return (
-        <div>Not Found</div>
+        <div>Not Fooooooooound</div>
     );
 };
 

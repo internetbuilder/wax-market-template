@@ -108,6 +108,7 @@ function MyApp ({ Component, pageProps }) {
                 'text-neutral text-base font-medium font-sans',
             )}
           >
+        <title>SlikHub</title>
               <Navigation {...props} />
               <PopupWrapper {...props} />
               <Component {...props} />

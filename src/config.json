@@ -4,11 +4,11 @@
     "market_name": "yoshimarkets",
     "api_endpoint": "https://api.hivebp.io",
     "limit": 12,
-    "header_image": "QmUyU2diN3qHbGsNT4Ec3UdhDNAMfHapasuiMAjBahH7gr",
-    "telegram_link": "",
-    "discord_link": "",
-    "twitter_link": "",
-    "market_title": "WAX Market Template",
-    "market_description": "WAX Market for Dummy Listings",
+    "header_image": "QmQMRzSLg2zUds7bDJ2Sf1ezzV2Ghu4LLazR3h4WT9ZyUC",
+    "telegram_link": "https://xxx.com",
+    "discord_link": "https://xxx.com",
+    "twitter_link": "https://xxx.com",
+    "market_title": "WAX Market",
+    "market_description": "WAX Market",
     "market_image": "/image.jpg"
 }
