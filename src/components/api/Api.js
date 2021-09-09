@@ -28,7 +28,7 @@ export const initCollections = async () => {
         'index_position': 'primary',
         'json': 'true',
         'key_type': 'i64',
-        'limit': 1,
+        'limit': 0,
         'reverse': 'false',
         'scope': 'marketmapper',
         'show_payer': 'false',

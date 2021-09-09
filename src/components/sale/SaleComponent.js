@@ -54,7 +54,7 @@ const SaleComponent = (props) => {
                 }
                 <div className="relative mt-20 mb-20 text-center">
                     <div className="m-auto h-1/4 leading-10">
-                        <a className="text-primary" href={`https://wax.atomichub.io/market/sale/${sale.sale_id}`}>View on Atomichub</a>
+                        <a className="text-primary" href={`https://wax.atomichub.io/market/sale/${sale.sale_id}`} target="_blank">View on Atomichub</a>
                     </div>
                 </div>
             </div>
