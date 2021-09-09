@@ -4,7 +4,9 @@ import Market from "../../components/market";
 import qs from 'qs';
 
 const MarketPage = (props) => {
-    return <Market {...props} />;
+    return <text>
+    <br />
+    <Market {...props} /></text>;
 };
 
 MarketPage.getInitialProps = async (ctx) => {

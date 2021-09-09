@@ -1,5 +1,8 @@
 import React from 'react';
 
 export default function FirstPost() {
-    return <h1>First Post</h1>
+    return <text>
+    <br /><br />
+    First post<br />
+    </text>
   }

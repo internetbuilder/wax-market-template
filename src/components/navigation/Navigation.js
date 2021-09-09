@@ -76,19 +76,8 @@ const Navigation = React.memo(props => {
                     'uppercase font-light',
                     'font-bold'
                 )}>
-                    <div className={cn(
-                            'ml-7'
-                        )}>
-                        <Link href={'/about'}>
-                            <span className={cn(
-                                'cursor-pointer pb-2',
-                                router.pathname.indexOf('/about') > -1 ? 'border-b-4 border-primary' : '',
-                            )}>
-                                About
-                            </span>
-                        </Link>
-                    </div>
-                    <div className={cn(
+                    
+                                        <div className={cn(
                             'ml-7'
                         )}>
                         <Link href={'/post'}>
@@ -97,6 +86,18 @@ const Navigation = React.memo(props => {
                                 router.pathname.indexOf('/post') > -1 ? 'border-b-4 border-primary' : '',
                             )}>
                                 Post
+                            </span>
+                        </Link>
+                    </div>
+                    <div className={cn(
+                            'ml-7'
+                        )}>
+                        <Link href={'/allcollections'}>
+                            <span className={cn(
+                                'cursor-pointer pb-2',
+                                router.pathname.indexOf('/allcollections') > -1 ? 'border-b-4 border-primary' : '',
+                            )}>
+                                Collections
                             </span>
                         </Link>
                     </div>

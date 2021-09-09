@@ -4,7 +4,7 @@ import qs from 'qs';
 import Inventory from "../../../components/inventory";
 
 const InventoryPage = (props) => {
-    return (<Inventory {...props} />);
+    return <text><br /><Inventory {...props} /></text>
 };
 
 InventoryPage.getInitialProps = async (ctx) => {
