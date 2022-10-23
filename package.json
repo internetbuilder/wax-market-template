@@ -46,7 +46,7 @@
     "react-share": "4.4.0",
     "react-tooltip": "4.2.10",
     "regenerator-runtime": "^0.13.9",
-    "sass": "1.38.0",
+    "sass": "1.55.0",
     "superagent": "*",
     "ual-anchor": "^1.0.9",
     "ual-reactjs-renderer": "^0.3.1",
