@@ -13,7 +13,7 @@
     "fs": "empty"
   },
   "dependencies": {
-    "@emotion/react": "11.4.1",
+    "@emotion/react": "11.10.4",
     "@emotion/styled": "11.3.0",
     "@eosdacio/ual-wax": "^1.5.1",
     "@google/model-viewer": "^1.6.0",
