@@ -51,7 +51,7 @@
     "ual-anchor": "^1.0.9",
     "ual-reactjs-renderer": "^0.3.1",
     "wax-dummy-market": "github:internetbuilder/wax-market-template",
-    "yarn": "1.22.11"
+    "yarn": "1.22.13"
   },
   "scripts": {
     "dev": "next dev",
